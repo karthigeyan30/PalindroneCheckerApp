@@ -19,7 +19,7 @@
  * @version 1.0
  */
 
-public class PalindromeCheckerApp {
+public class PalindroneCheckerApp {
 
     /**
      * Entry point of the Java application.
